@@ -1,4 +1,4 @@
-const apiKey = '01d9b07e510a49bbb90134218241808'; // Replace with your WeatherAPI key
+const apiKey = 'API_KEY_HERE'; // Replace with your WeatherAPI key
 const apiUrl = 'https://api.weatherapi.com/v1/current.json';
 
 const weatherConditions = {
