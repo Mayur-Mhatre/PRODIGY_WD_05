@@ -16,7 +16,7 @@ Welcome to **Dynamic Weather App 🌦️**, a dynamic weather application that n
 ├── index.html          # Main HTML structure
 ├── styles.css          # CSS styling for the app
 ├── script.js           # JavaScript for weather data fetching and dynamic backgrounds
-└── assets/             # Folder for images and other assets
+└── image/              # Folder for images and other assets
     ├── bg_clear_day.jpg
     ├── bg_partly_cloudy.jpg
     ├── bg_cloudy.jpg
