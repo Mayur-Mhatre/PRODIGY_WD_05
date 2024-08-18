@@ -42,7 +42,7 @@ Follow these steps to get the app up and running on your local machine:
    ```bash
    cd PRODIGY_WD_05
    ```
-3. **Add your api_key in the script.js file**
+3. **Add your api_key in the `script.js` file**
 
 4. **Open `index.html`** in your preferred web browser to view the weather app.
 
